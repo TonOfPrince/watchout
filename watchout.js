@@ -3,7 +3,7 @@
 var gameOptions = {
   height: 450,
   width: 700,
-  nEnemies: 30,
+  nEnemies: 50,
   padding: 20
 };
 
